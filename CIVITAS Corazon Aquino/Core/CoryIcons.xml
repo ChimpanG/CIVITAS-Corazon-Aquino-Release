@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<IconDefinitions>
-
-		<Row Name="ICON_LEADER_CIVITAS_CORY" Atlas="ICON_ATLAS_LEADERS_CIVITAS_CORY" Index="0"/>
-
-		<Row Name="ICON_CIVILIZATION_CIVITAS_PHILIPPINES_CORY" Atlas="ICON_ATLAS_CIVILIZATIONS_CIVITAS_PHILIPPINES_CORY" Index="0"/>
-	</IconDefinitions>
 	<IconTextureAtlases>
 
 		<Row Name="ICON_ATLAS_LEADERS_CIVITAS_CORY" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_CIVITAS_CORY_32.dds"/>
@@ -15,7 +9,10 @@
 		<Row Name="ICON_ATLAS_LEADERS_CIVITAS_CORY" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_CIVITAS_CORY_64.dds"/>
 		<Row Name="ICON_ATLAS_LEADERS_CIVITAS_CORY" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_CIVITAS_CORY_80.dds"/>
 		<Row Name="ICON_ATLAS_LEADERS_CIVITAS_CORY" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_CIVITAS_CORY_256.dds"/>
-		<Row Name="ICON_ATLAS_CIVILIZATIONS_CIVITAS_PHILIPPINES_CORY" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_CIVITAS_PHILIPPINES_CORY_45.dds"/>
-		<Row Name="ICON_ATLAS_CIVILIZATIONS_CIVITAS_PHILIPPINES_CORY" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_CIVITAS_PHILIPPINES_CORY_256.dds"/>
 	</IconTextureAtlases>
+	<IconDefinitions>
+
+		<Row Name="ICON_LEADER_CIVITAS_CORY" Atlas="ICON_ATLAS_LEADERS_CIVITAS_CORY" Index="0"/>
+
+	</IconDefinitions>
 </GameData>

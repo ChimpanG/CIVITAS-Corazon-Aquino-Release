@@ -3,8 +3,8 @@
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>253</build>
-		<revision>293</revision>
+		<build>415</build>
+		<revision>990</revision>
 	</m_Version>
 	<m_TemplateName text="LeaderFallback"/>
 	<m_RootCollections>
@@ -25,7 +25,7 @@
 									<Element class="AssetObjects..BLPEntryValue">
 										<m_EntryName text="FALLBACK_NEUTRAL_CIVITAS_CORY"/>
 										<m_XLPClass text="LeaderFallback"/>
-										<m_XLPPath text="LeaderFallbacks.xlp"/>
+										<m_XLPPath text="leaderfallbacks.xlp"/>
 										<m_BLPPackage text="LeaderFallbacks"/>
 										<m_LibraryName text="LeaderFallback"/>
 										<m_ParamName text="BLP Entry"/>

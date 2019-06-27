@@ -35,14 +35,14 @@
 		</Row>
 		<!-- DOM -->
 		<Row Tag="LOC_LOADING_INFO_LEADER_CIVITAS_CORY" Language="en_US">
-			<Text>Greetings, Corazon Aquino: Mother of Asian Democracy. From a plain housewife to the first female President of the Philippines, you have made great strides in your struggle against tryanny. Now, let your people reap the riches of the Philippines and fling open the doors to visitors so they may sample a taste of these Fiesta Islands. The people look to you to guide them, for you have shown them the power that they possess. You have brought peaceful revolution to the Philippines - what will you do now?</Text>
+			<Text>Greetings, Corazon Aquino: Mother of Asian Democracy. From a plain housewife to the first female President of the Philippines, you have made great strides in your struggle against tryanny. Now, let your people reap the riches of the Philippines and fling open the doors to visitors, that they may sample a taste of these Fiesta Islands. The people look to you to guide them, for you have shown them the power that they possess. You have brought peaceful revolution to the Philippines - what will you do now?</Text>
 		</Row>
 		<!-- Traits -->
 		<Row Tag="LOC_TRAIT_LEADER_CIVITAS_CORY_INA_ING_DEMOKRASYA_NAME" Language="en_US">
 			<Text>Ina ng Demokrasya</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_CIVITAS_CORY_INA_ING_DEMOKRASYA_DESCRIPTION" Language="en_US">
-			<Text>Farms adjacent to at least one other farm produce +1 [ICON_Gold] and tiles adjacent to Plantations produce +1 [ICON_Food] Food. Great Works of Music produce 3 times the normal amount of [ICON_Tourism] Tourism, and cities with a National Park produce 15% more Gold [ICON_Gold].</Text>
+			<Text>One Military policy slot in the current government slot is converted to a Wildcard policy slot. Great Works of [ICON_GREATWORK_MUSIC] Music produce 3 times the normal amount of [ICON_Tourism] Tourism, and cities with a National Park produce 15% more Gold [ICON_Gold].</Text>
 		</Row>
 
 		<!-- Civiliopedia -->
@@ -53,20 +53,26 @@
 			<Text>President of the Philippines</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIVITAS_CORY_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>Corazon Aquino was born in 1933 to José Cojuangco, a former congressman, and his wife Demetria. Both of her parents came from influential families. She attended university in the United States before returning to the Philippines to study law at Far Eastern University. During her studies, she met Benigno 'Ninoy' S. Aquino, Jr, and they wed. Ninoy was active as a politican - and Corazon secretly helped fund his candidacy by selling off part of her inheritance. He rose up the ranks, eventually becoming the youngest Senator in the country. He became an outspoken critic of President Ferdinand Marcos, and when Marcos declared martial law and abolished the constitution in 1972, Corazon's husband was among the first to be imprisoned. Six years later, their family would leave for exile in the United States. Together Ninoy and Corazon lived a happy life, but in 1983, Ninoy returned to the Philippines and was promptly assassinated on the tarmac of Manila International Airport.</Text>
+			<Text>María Corazón 'Cory' Cojuangco Aquino was a Filipino politician who served as the 11th President of the Philippines, becoming the first woman to hold that office. Corazon Aquino was the most prominent figure of the 1986 People Power Revolution, which ended the 21-year rule of President Ferdinand Marcos. She was named Time magazine's Woman of the Year in 1986. Prior to this, she had not held any elective office.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIVITAS_CORY_CHAPTER_HISTORY_PARA_2" Language="en_US">
-			<Text>Corazon Aquino returned to the Philippines shortly after; she led Ninoy's funeral procession, in which more than two million people participated. The assassination of her husband flung Corazon into politics as she became an active anti-Marcos figure. After Ferdinand Marcos announced a snap election for early 1986, she received one million signatures urging her to run. Marcos spoke out against her, critiquing her lack of experience and her gender, to which she countered with stinging rebukes of Marcos's corruption. The election on February 7, 1986 was marred by widespread electoral fraud, leading to Marcos being declared the winner. In protest, Corazon held a "People's Victory Rally," which drew an enormous crowd. Just 18 days after the election, Ferdinand Marcos fled the country after several military officers broke with him and offered their support to Aquino's claim to victory in the election. </Text>
+			<Text>A self-proclaimed 'plain housewife', she was married to Senator Benigno Aquino Jr., the staunchest critic of President Marcos. She emerged as leader of the opposition after her husband was assassinated on 21 August 1983 upon returning to the Philippines from exile in the United States. In late 1985, Marcos called for snap elections, and Aquino ran for president with former senator Salvador Laurel as her running mate for vice president. After the elections were held on 7 February 1986, the Batasang Pambansa proclaimed Marcos and his running mate Arturo Tolentino as the winners; allegations were made of electoral fraud, with Aquino calling for massive civil disobedience actions. Defections from the Armed Forces of the Philippines and the support of the local Catholic hierarchy led to the People Power Revolution that ousted Marcos and secured Aquino's accession on 25 February 1986.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIVITAS_CORY_CHAPTER_HISTORY_PARA_3" Language="en_US">
-			<Text>This People Power Revolution signaled the end of authoritarian rule in the Philippines, earning Corazon the nicknames "Mother of Philippine Democracy" and "The Housewife Who Led a Revolution." She immediately issued a Proclamation to establish a new government, issuing a provisional Freedom Constitution until a more formal document could be ratified. She also promulgated two landmark legal codes and re-organized the Supreme Court to be more independent. She tackled the large amount of foreign debt left by the Marcos regime, reducing the Philippines debt-to-GDP ration by 30 percent, partially by popularizing the Philippines as a tourist destination, marketing the country as the "Fiesta Islands" with a distinct culture and exquisite natural beauty. She also oversaw land and agrarian reform in the country, breaking up large estates in favor of those who worked the fields. She also dealt with several natural disasters during her presidency, including the 1990 Luzon earthquake, the 1991 eruption of Mount Pinatubo, and 1991's Tropical Storm Thelma. Despite her prominence and popularity, Corazon refused to run for a second term, choosing to abide by the term limits of the Constitution even though it was established after her election. She continued to be active in charitable, social, and political endeavors up until her death on August 1, 2009. The Philippines mourned the loss of the Housewife Who Led a Revolution with nation-wide requiem masses and a funeral escort attended by hundreds of thousands of Filipinos.</Text>
+			<Text>As President, Aquino oversaw the promulgation of the 1987 Constitution, which limited the powers of the Presidency and re-established the bicameral Congress. Her administration provided strong emphasis on and concern for civil liberties and human rights, and on peace talks to resolve the ongoing Communist insurgency and Islamist secession movements. Her economic policies centered on restoring economic health and confidence and focused on creating a market-oriented and socially responsible economy. In 1987, she became the first Filipino to be bestowed with the prestigious Prize For Freedom Award.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIVITAS_CORY_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Several coup attempts were made against Aquino's government; it also faced various natural calamities until the end of her term in 1992. She was succeeded as President by Fidel Ramos, and returned to civilian life while remaining public about her opinions on political issues. In recognition for her role in the world's most peaceful revolution to attain democracy, she was awarded the prestigious Ramon Magsaysay Award in 1998.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIVITAS_CORY_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>As the guiding light of the People Power Revolution, Corazon Aquino is fondly remembered and deeply revered by most Filipinos as the 'mother of Philippine democracy', and the 'housewife who led a revolution'. She has been hailed by American columnist Georgie Anne Geyer as a modern-day Joan of Arc.</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIVITAS_CORY_CHAPTER_CAPSULE_BODY" Language="en_US">
-			<Text>Corazon Aquino excels at producing gold, especially once she can get national parks up and running in the late game, but keep an eye on her tourism production - that Manila Sound can be quite powerful!</Text>
+			<Text>Corazon finds her greatest strength in governance and great works.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CIVITAS_CORY_CHAPTER_DETAILED_BODY" Language="en_US">
-			<Text>As Corazon Aquino, Plantations and Farms will be the key to your economy. Make sure to place them strategically in order to gain the maximum effect, but also make sure to leave some room for national parks later in the game - they'll be able to net you a hefty influx of cash!</Text>
+			<Text>While nominally a late bloomer, Corazon can hit the ground running with an extra wildcard in place of a military policy slot in any government. To make the most out of her ability to gain 3 times as much tourism from Great Works, she will likely use this wildcard slot to boost her points towards great writers, artists and later, musicians. The culture that great works inherently provide should help her race through the civic tree to unlock naturalist units sooner than others, which she will then use to boost her economy through national parks and wrap up a cultural victory.</Text>
 		</Row>
 		<!-- Diplomacy -->
 		<!--FIRST MEET-->
@@ -167,7 +173,7 @@
 		<!--DENOUNCE-->
 		<!--From Human-->
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CIVITAS_CORY_ANY" Language="en_US">
-			<Text>I have dealt with worse - your words do not frighten me.</Text>
+			<Text>Your disregard for the rights of your citizens has become too much for me to bear. The Philippines hereby denounces your crimes to the world.</Text>
 		</Row>
 		<!--From AI-->
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CIVITAS_CORY_ANY" Language="en_US">

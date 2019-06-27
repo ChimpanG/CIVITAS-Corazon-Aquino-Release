@@ -272,7 +272,9 @@
 		</Element>
 		<Element>
 			<ConsumerName text="LeaderLighting"/>
-			<ArtDefDependencyPaths/>
+			<ArtDefDependencyPaths>
+				<Element text="Leaders.artdef"/>
+			</ArtDefDependencyPaths>
 			<LibraryDependencies>
 				<Element text="LeaderLighting"/>
 				<Element text="ColorKey"/>
@@ -502,7 +504,6 @@
 			<LibraryName text="UITexture"/>
 			<PackageDependencies>
 				<Element text="UI/Icons.blp"/>
-				<Element text="UILeaders.blp"/>
 			</PackageDependencies>
 		</Element>
 		<Element>
